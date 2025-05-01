@@ -8,3 +8,5 @@ matplotlib
 bitsandbytes
 gtts
 torchvision
+streamlit
+
